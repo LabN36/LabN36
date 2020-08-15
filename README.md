@@ -1,8 +1,8 @@
-#### Hi there I'm Rishabh Agrawal 👋 
+##### Hi there I'm Rishabh Agrawal 👋 
 
-##### A Full Stack Software Developer
+#### A Full Stack Software Developer
 
-##### Technology Stack
+### Technology Stack
 |Frontend | Backend | DataBase| Mobile  | Other | DevOps | Other Tools & Skill
 |-----------|----|-------|-------| -------|-------|-------|
 |AngularJS| NodeJS | MongoDB | Android  |Alexa Skill Development | AWS | Elastic Search
