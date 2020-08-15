@@ -1,6 +1,6 @@
 #### Hi there I'm Rishabh Agrawal 👋 
 
-##### Software Development Experience 5 Years(as of July 2020)
+##### A Full Stack Software Developer
 
 ##### Technology Stack
 |Frontend | Backend | DataBase| Mobile  | Other | DevOps | Other Tools & Skill
