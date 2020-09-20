@@ -14,6 +14,9 @@
 | | | |  | Progressive Web Apps
 | | | |  | Chatbots
 | | | |  | Ecommerce Development 
+| | | |  | Facebook Instant Game
+| | | |  | Instagram/Facebook AR Filters
+
 
 
 
