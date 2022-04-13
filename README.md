@@ -20,7 +20,3 @@
 
 
 
-## Checkout my learning track for year 2020 [here](https://github.com/users/LabN36/projects/1)
-
-##### Pet Project List I want to develop [here](https://github.com/LabN36/petprojectlist)
-##### Curiosity List [here](https://github.com/LabN36/curiosity)
